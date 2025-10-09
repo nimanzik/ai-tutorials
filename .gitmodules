@@ -1,0 +1,3 @@
+[submodule "building-llm-powered-apps/fine-tuning-open-weight-models/ai_finetuning_basics"]
+	path = building-llm-powered-apps/fine-tuning-open-weight-models/ai_finetuning_basics
+	url = https://github.com/canyon289/ai_finetuning_basics.git

@@ -10,3 +10,5 @@
 [submodule "building-llm-powered-apps/ai_app_basics"]
 	path = building-llm-powered-apps/ai_app_basics
 	url = git@github.com:nimanzik/ai_app_basics.git
+[submodule "ai_finetuning_basics"]
+	url = git@github.com:nimanzik/ai_finetuning_basics.git

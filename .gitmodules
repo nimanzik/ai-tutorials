@@ -7,3 +7,6 @@
 [submodule "building-llm-powered-apps/ai_agent_basics"]
 	path = building-llm-powered-apps/ai_agent_basics
 	url = git@github.com:nimanzik/ai_agent_basics.git
+[submodule "building-llm-powered-apps/ai_app_basics"]
+	path = building-llm-powered-apps/ai_app_basics
+	url = git@github.com:nimanzik/ai_app_basics.git

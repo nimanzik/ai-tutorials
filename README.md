@@ -1,1 +1,1 @@
-# ai-tutorial-colabs
+# ai-tutorials

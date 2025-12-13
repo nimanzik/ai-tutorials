@@ -1,3 +1,6 @@
 [submodule "building-llm-powered-apps/fine-tuning-open-weight-models/ai_finetuning_basics"]
 	path = building-llm-powered-apps/fine-tuning-open-weight-models/ai_finetuning_basics
 	url = https://github.com/canyon289/ai_finetuning_basics.git
+[submodule "building-llm-powered-apps/ai_image_agent"]
+	path = building-llm-powered-apps/ai_image_agent
+	url = git@github.com:nimanzik/ai_image_agent.git

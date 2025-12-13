@@ -12,3 +12,6 @@
 	url = git@github.com:nimanzik/ai_app_basics.git
 [submodule "ai_finetuning_basics"]
 	url = git@github.com:nimanzik/ai_finetuning_basics.git
+[submodule "realtime-phone-agents-course"]
+	path = realtime-phone-agents-course
+	url = git@github.com:nimanzik/realtime-phone-agents-course.git
